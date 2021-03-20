@@ -1,0 +1,3 @@
+{
+    "DB_URL_LOCAL": "mongodb+srv://prash0084:prash0084@mern-ryxnm.mongodb.net/mychat?retryWrites=true&w=majority"
+}
